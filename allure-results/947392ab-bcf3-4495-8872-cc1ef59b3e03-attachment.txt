@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//input[@type=\"password\" and @aria-label=\"Enter your password\"]\"}\n  (Session info: chrome=128.0.6613.120)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7B78CB642+29090]\n\t(No symbol) [0x00007FF7B783E6F9]\n\t(No symbol) [0x00007FF7B76FB1CA]\n\t(No symbol) [0x00007FF7B774EFD7]\n\t(No symbol) [0x00007FF7B774F22C]\n\t(No symbol) [0x00007FF7B77997F7]\n\t(No symbol) [0x00007FF7B777672F]\n\t(No symbol) [0x00007FF7B77965D9]\n\t(No symbol) [0x00007FF7B7776493]\n\t(No symbol) [0x00007FF7B77409B1]\n\t(No symbol) [0x00007FF7B7741B11]\n\tGetHandleVerifier [0x00007FF7B7BE8CCD+3295277]\n\tGetHandleVerifier [0x00007FF7B7C348B3+3605523]\n\tGetHandleVerifier [0x00007FF7B7C2A777+3564247]\n\tGetHandleVerifier [0x00007FF7B7986F26+797318]\n\t(No symbol) [0x00007FF7B784987F]\n\t(No symbol) [0x00007FF7B7845464]\n\t(No symbol) [0x00007FF7B78455F0]\n\t(No symbol) [0x00007FF7B7834A8F]\n\tBaseThreadInitThunk [0x00007FF917A8257D+29]\n\tRtlUserThreadStart [0x00007FF9193AAF28+40]\n"
+}
